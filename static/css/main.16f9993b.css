@@ -1,0 +1,2 @@
+.App{display:flex;flex-direction:column;margin:0 auto;max-width:1200px;min-height:100vh}.header{align-items:center;background-color:#008cff;color:#fff;display:flex;justify-content:space-between;padding:0 20px}.header nav{display:flex;gap:10px}.main{flex:1 1}.footer{background-color:#008cff;display:grid;place-content:center center}.footer p{color:#fff}
+/*# sourceMappingURL=main.16f9993b.css.map*/

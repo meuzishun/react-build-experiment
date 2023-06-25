@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-build-experiment/static/css/main.16f9993b.css",
+    "main.js": "/react-build-experiment/static/js/main.669c2fe5.js",
+    "index.html": "/react-build-experiment/index.html",
+    "main.16f9993b.css.map": "/react-build-experiment/static/css/main.16f9993b.css.map",
+    "main.669c2fe5.js.map": "/react-build-experiment/static/js/main.669c2fe5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16f9993b.css",
+    "static/js/main.669c2fe5.js"
+  ]
+}
